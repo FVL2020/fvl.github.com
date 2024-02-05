@@ -8,4 +8,4 @@ During his visit, Scholar Dong shared the details of three major projects undert
 
 The event concluded with Associate Professor Zhi Jin presenting some commemorative books to Scholar Dong Chao as tokens of appreciation for his visit and invaluable insights.
 
-![photo](https://github.com/FVL2020/fvl.github.com/tree/master/news_photos/ChaoDong.jpg)  
+![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/ChaoDong.jpg)  
