@@ -1,0 +1,10 @@
+# December 15, 2023 Professor Weisi Lin, visited our lab and gave a talk.
+
+Professor Weisi Lin is now teaching at the School of Computer Science and Engineering, Nanyang Technological University, Singapore, where he also serves as the Associate Director (Research). Prof. Lin has conducted active research in the areas of image processing, perception-based modeling, video compression, and multimedia communication. He is a Fellow of IEEE, a Fellow of IET, a Chartered Engineer, and an Honorary Fellow of SIET (Singapore Institute of Engineering Technologists).
+
+During the visit, Prof. Lin shared the concept of the compression of deep visual features and models. This concept describes a framework that extracts visual features from images or videos at edge devices, and then compresses and transmits the features to cloud computing devices to be processed and analyzed by machine vision models. Prof. Lin compared several schemes for extracting features at edge devices and presented several approaches for compressing and encoding visual features with existing image and video compression coding algorithms. The specifically designed codec for visual features considering JND (Just Noticeable Difference) is also prospected. The new concept introduced by Prof Lin is of great significance in many application scenarios with machines as end users, and can naturally facilitate accurate feature extraction, privacy protection, flexible edge-cloud load distribution, green vision computing, as well as the integration of signal compression and computer vision.
+
+Professor Lin's presentation was incredibly insightful and provided valuable guidance for future research directions. It stimulated productive thinking among the participating students and faculty, and led to in-depth discussions and exchanges. Prof. Lin's expertise had a significant impact on the event and will undoubtedly have a lasting effect on the participants' own research and academic pursuits.
+ng Chao as tokens of appreciation for his visit and invaluable insights.
+
+![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/WeisiLin.jpg)  
