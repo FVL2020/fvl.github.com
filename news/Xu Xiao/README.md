@@ -12,8 +12,8 @@ Constantin Patsch, PhD candidate (TUM), mainly studies AI’s understanding of h
 
 Driton Salihu PhD student (TUM) focuses on the reconstruction of 3D indoor environments. He introduced instance-based 3D digital twins at this exchange meeting and shared his two main works in this direction. At the same time, based on his own research direction, he shared with everyone the latest work on 3D reconstruction based on diffusion models. Although their research directions are not the same as their own, everyone has said that they have benefited a lot.
 
-![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/XuXiao3.JPEG)
+![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/XuXiao3.JPG)
 
 This Sino-German mobility project joint exchange meeting provided a good sharing and exchange platform for the participating members and expanded the knowledge of the participating members. The meeting ended successfully in a lively discussion atmosphere.
 
-![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/XuXiao4.JPEG)
+![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/XuXiao4.JPG)
