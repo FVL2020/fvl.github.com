@@ -12,4 +12,4 @@ Yang Dong’s doctoral student’s research interests include computer vision, m
 
 ![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/SG_again2.HEIC)
 
-This China-Germany visit and exchange meeting has broadened everyone's knowledge and horizons, and is very meaningful to both parties. The meeting ended successfully in a lively discussion atmosphere.
+This Sino-Germany visit and exchange meeting has broadened everyone's knowledge and horizons, and is very meaningful to both parties. The meeting ended successfully in a lively discussion atmosphere.
