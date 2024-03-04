@@ -1,4 +1,4 @@
-# The Sino-German Mobility Project Joint Exchange Meeting was successfully held.
+# March 2023, the Sino-German Mobility Project Joint Exchange Meeting was successfully held.
 
 In March 2023, Dr. Xu Xiao and his delegation from the Media Technology Laboratory of the Technical University of Munich (TUM) in Germany were invited by Associate Professor Zhi Jin of our school to come to the Shenzhen Campus of Sun Yat-sen University to gather with members of the Frontier Vision Laboratory led by Associate Professor Zhi Jin to conduct in-depth academic discussions. comminicate.
 
