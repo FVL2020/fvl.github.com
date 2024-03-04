@@ -1,4 +1,4 @@
-# September 2023, the Sino-German Mobility Project Joint Exchange Meeting was successfully held again.
+# The Sino-German Mobility Project Joint Exchange Meeting was successfully held again.
 
 In September 2023, at the invitation of Associate Professor Zhi Jin of our school, the Media Technology Laboratory of the Technical University of Munich (TUM) in Germany came to the Shenzhen Campus of Sun Yat-sen University for visit and exchange again after half a year. The three visiting doctoral students had in-depth academic exchanges with the Frontier Vision Laboratory led by Associate Professor Zhi Jin. The visitors this time are doctoral students Yang Dong, doctoral students Xiong Mengchen and doctoral students Wang Zican. Associate Professor Zhi Jin, the Chinese project leader, first extended a warm welcome to their arrival. Then the exchange meeting officially started.
 
