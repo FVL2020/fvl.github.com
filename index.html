@@ -9,12 +9,21 @@
 <link rel="stylesheet" href="style.css" type="text/css" media="screen">
 <style type="text/css">
     	.background{
-		background:url(img/网页背景2.png) center top;
-		background-attachment:fixed;
-		opacity:0.5
+		
+		position: relative;
 		}
-	.background::after{
-		opacity:0.5
+	.background::before{
+		background:url(img/网页背景2.png);
+		content: '';
+		opacity:0.5;
+		position: absolute;
+	        left: 0;
+	        top: 0;
+	        /*避免遮盖其他元素*/
+	        z-index: -1;
+	        /* 滤镜效果 */
+	        -webkit-filter: opacity(50%);
+	        filter: opacity(50%);
 	}
 </style>
 </head>
