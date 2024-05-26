@@ -6,10 +6,10 @@ Xiong Mengchen, a doctoral student, mainly focuses on the field of sensor fusion
 
 The research of doctoral student Wang Zican mainly focuses on the control method of time-delay network teleoperation and the optimization and evaluation of experience quality. Data processing, machine learning, robotics and virtual reality are also studied as auxiliary tools to his main research goals. In this exchange meeting, he shared the analysis, implementation and evaluation of remote operation control systems, and also shared some of his thoughts and experiences from coming to Germany to study for a doctoral degree from a domestic university.
 
-![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/SG_again1.HEIC)
+![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/SG_again1.jpg)
 
 Yang Dong’s doctoral student’s research interests include computer vision, machine learning and remote operation. He is particularly focused on utilizing computer vision-based methods to improve the performance of remotely operated service robots. In this exchange meeting, he introduced how to conduct efficient remote operation of bilateral assistance and shared his main work content in this direction.
 
-![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/SG_again2.HEIC)
+![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/SG_again2.jpg)
 
 This Sino-Germany visit and exchange meeting has broadened everyone's knowledge and horizons, and is very meaningful to both parties. The meeting ended successfully in a lively discussion atmosphere.
