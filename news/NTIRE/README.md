@@ -4,7 +4,7 @@ Recently, the New Trends in Image Restoration and Enhancement Workshop and Assoc
 
 Under the guidance of Associate Professor Zhi Jin from the School of Intelligent Systems Engineering, Shen Zhen Campus of Sun Yat-sen University, the team consisting of graduate student Hongjun Wu from class of 2023, graduate student Chenxi Wang from class of 2021, and undergraduate student Haitao Ling from class of 2020 was awarded the winner award of the Low-Light Enhancement Challenge Track.
 
-![photo]([https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/NTIREaward.png]#pic_center)
+![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/NTIREaward.png#pic_center)
 
 The NTlRE Challenge organized by CVPR is one of the most influential international events in the field of intelligent image restoration and enhancement, and has been held for 9 consecutive sessions since 2016. NTIRE 2024 is divided into a total of 23 tracks for low-light enhancement, stereo image super-resolution, portrait quality assessment, etc., which not only attracts domestic and foreign universities such as Johns Hopkins University, the University of Toronto, Tsinghua University and Peking University, but also attracts the participation of Huawei, Tencent, Samsung and other technology companies. 
 
