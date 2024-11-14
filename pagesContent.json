@@ -1,0 +1,402 @@
+{
+    "/leader": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Frontier Vision Lab",
+            "金 枝"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "一、个人基本信息金枝，中山大学“百人计划”副教授，博士生导师，中国图象图形学学会CSIG多媒体专委会委员、交通视频专委会委员，主要从事图像视频处理、计算机视觉、三维重建等方面的研究和应用。本科由西安交大与英国利物浦大学联合培养，2016年博士毕业于英国利物浦大学，博士后分别在深圳大学和德国慕尼黑工业大学进行。荣获德国慕尼黑工业大学高级研究员科研资助。近5年，在图像处理及计算机视觉领域顶级期刊及会议共发表高水平学术论文42篇，其中本人作为一作/通信论文28篇，中科院2区以上期刊和CCF-B类以上会议论文19篇。本人主持国家级科研项目4项，包括国家自然基金中德交流项目、国家自然科学基金面上项目、青年项目和博士后基金。本人作为第一发明人申请专利9项，其中已授权发明专利2项，已授权软件著作权1项。积极参与多个学会并担任专委会委员，包括CSIG多媒体专委会委员、交通视频专委会委员、女工委委员、CCF多媒体专委会会员，担任Frontiers in Signal Processing期刊编委、ICIG2021和CSIG青年科学家论坛的宣传主席等。担任IEEE TIP、TCSVT、TMM和Information Fusion多个计算机视觉领域顶级期刊的审稿人。广东省人工智能专家库专家，深圳市科创委专家库专家。电子邮件：jinzh26@mail.sysu.edu.cn  课题组主页：https://fvl2020.github.io/fvl.github.com/ 欢迎对学术感兴趣的硕士生，博士生，博士后、专职科研人员报考，可邮件咨询，来邮必复！",
+            "二、主要经历2016年博士毕业于英国利物浦大学，读博期间曾访问过韩国成均馆大学、德国慕尼黑工业大学。之后于深圳大学和德国慕尼黑工业大学从事博士后和高级研究员工作。2019年起加入中山大学智能工程学院。",
+            "三、学科方向复杂环境下的视觉感知增强、计算机视觉技术在无感人体健康指数检测上的应用、三维重建及其应用。",
+            "四、主要科研项目1.国家自然科学基金面上项目，复杂天气及光照下的移动视觉感知增强理论与方法，2021/01/01-2024/12/31，主持。2. 国家自然科学基金中德中心交流项目，人工智能辅助下的力反馈双边遥操作系统的整体优化策略研究，2021/01/01-2023/12/31，主持。3.国家自然科学基金青年基金，基于合成视点失真模型的三维视频质量增强研究， 2018/01-2020/12，已结题，主持。4.国家博士后基金，海量三维视频的高效压缩与质量增强的关键技术研究， 2018/01-2019/12，已结题，主持。 5.国家重点研发计划，自主式交通复杂系统体系架构研究，2020/11/01-2023/10/31，1170万，在研，参与。6.国家自然科学基金面上项目，面向自动驾驶的汽车行驶轨迹预测，2019/01-2021/12，63万，在研，参与。7.国家自然科学基金面上项目,时空约束的协同视觉显著性检测与目标跟踪，2018/01-2021/12，在研，参与。8.国家自然科学基金国际重大合作项目，基于对象和MacroCube的三维视频的编码和理解， 2013/01-2017/12，已结题，参与。",
+            "五、论著专利近5年期刊论文(1) Zhi Jin, Junjia Huang, Wenjin Wang, Aolin Xiong, Xiaojun Tan*, Estimating Human Weight from A Single Image, IEEE Transactions on Multimedia, early access, 2022. (中科院1区)(2) Zhi Jin，Junjia Huang, Wenjin Wang，Aolin Xiong, Yuxian Pang, Beichen Ding*, Attention Guided Deep Features for Accurate Body Mass Index Estimation, Pattern Recognition Letters, vol.154, pp.22-28, 2022. (中科院3区)(3) Zongyao He, Zhi Jin*, Yao Zhao, SRDRL:A Blind Super-Resolution Framework With Degradation Reconstruction Loss, IEEE Transactions on Multimedia, early access, 2021. (中科院1区)(4) Shancheng Jiang, Huichuan Li, Zhi Jin*, A Visually Interpretable Deep Learning Framework for Histopathological Image-based Skin Cancer Diagnosis, IEEE Journal of Biomedical and Health Informatics, vol.25, no.5, pp.1483-1494, 2021. (中科院2区)(5) Jie Xiao, Zhi Jin*, Huanrong Zhang, A General Model Compression Method for Image Restoration Network, Signal Processing: Image Communication, vol.93, pp.116-134, 2021. (中科院3区)(6) Huanrong Zhang, Jie Xiao, Zhi Jin*, Multi-scale Image Super-Resolution via A Single Extendable Deep Network, IEEE Journal of Selected Topics in Signal Processing, Vol.15, no.2, pp.253-263, 2020. (中科院1区)(7) Zhi Jin, Muhammad Zafar Iqbal, Wenbin Zou, Xia Li, Eckehard Steinbach, Dual-stream Multi-path Recursive Residual Network for JPEG Image Compression Artifacts Reduction, IEEE Transactions on Circuits and Systems for Video Technology, vol.31, no.2, pp.467 - 479, 2020. (中科院2区)(8) Zhi Jin, Muhammad Zafar Iqbal, Dmytro Bobkov, Wenbin Zou, Xia Li, Eckehard Steinbach, A Flexible Deep CNN Framework for Image Restoration, IEEE Transactions on Multimedia, vol. 22, no. 4, pp. 1055-1068, 2019. (中科院1区)(9) Lei Luo, Taihai Yang, Ce Zhu, Zhi Jin, Shu Tang, Joint Texture Depth Power Allocation for 3D Video SoftCast, IEEE Transactions on Multimedia, vol.29, no.12, pp.2973-2984, 2019. (中科院1区)(10) Yi Tang, Wenbin Zou, Yang Hua, Zhi Jin, Xia Li, Video Salient Object Detection via Spatiotemporal Attention Neural Networks, Neurocomputing, vol.377, pp.27 – 37, 2019. (中科院2区)(11) Shuming Jiao#, Zhi Jin#, Chenliang Chang, Changyuan Zhou, Wenbin Zou, Compression of Phase-Only Holograms with JPEG Standard and Deep Learning, Applied Science, 8(8), 1258, 2018. (中科院3区)(12) Yi Tang, Wenbin Zou, Zhi Jin, Yuhuan Chen, Yang Hua, Xia Li, Weakly Supervised Salient Object Detection with Spatiotemporal Cascade Neural Networks, IEEE Transactions on Circuits and Systems for Video Technology, vol.29, no.7, pp.1973-1984, 2018. (中科院2区)(13) Shuming Jiao, Zhi Jin, Changyuan Zhou, Wenbin Zou and Xia Li, Is QR Code an Optimal Choice of Data Container in Optical Encryption from Error Correction Coding Perspective? JOSA A, 35(1), 2018. (中科院3区)(14) Zhi Jin, Tammam Tillo, Wenbin Zou, Xia Li, Yao Zhao, Robust Plane Detection using Depth Information from a Consumer Depth Camera, IEEE Transactions on Circuits and Systems for Video Technology, vol.29, no.2, pp. 447-460, 2017. (中科院2区)(15) Zhi Jin, Tammam Tillo, Chao Yao, Jimin Xiao, Yao Zhao, Virtual View Assisted Video Super-Resolution and Enhancement, IEEE Transactions on Circuits and Systems for Video Technology, vol.26, no.3, pp.467-478, 2016. (中科院2区)",
+            "近5年会议论文(1) Junjia Huang, Chenming Shang, Aolin Xiong, Yuxian Pang, Zhi Jin*, Seeing Health with Eyes: Feature Combination for Image-based BMI Eestimation, IEEE International Conference on Multimedia & Expo, Shenzhen, China, 2021. (CCF B类会议)(2) Zongyao He, Zhi Jin*, Xiao Xu, Lei Luo, Degradation Reconstruction Loss: A Perceptual-Oriented Super-Resolution Framework for Multi-Downsampling Degradations, The International Conference on Image and Graphics, Haikou, China, 2021. (3) Xiao Jie, Dandan Zhan, Haoran Qi, Zhi Jin*, When Face Completion Meets Irregular Holes: An Attributes Guided Deep Inpainting Network, ACM Multimedia, Chengdu, China, 2021. (CCF A类会议)(4) Yinhe Qi, Meng Pan, Zhi Jin*, Learning to Synthesize and Remove Rain Unsupervisedly, The Pacific Rim International Conference on Artificial Intelligence, Virtual Hanoi, Vietnam, 2021. (CCF C类会议)(5) Haoran Qi, Huanrong Zhang, Zhi Jin*, SemFSR: An Unsupervised Face SR with Semantic Features for Multiple Degradations, IEEE International Conference on Tools with Artificial Intelligence, Virtually, 2021. (CCF C类会议)(6) Huanrong Zhang, Zhi Jin*, Xiaojun Tan, Xiying Li, Towards Lighter and Faster: Learning Wavelets Progressively for Image Super-Resolution, ACM Multimedia, Seattle, United States, 2020. (CCF A类会议)(7) 潘孟，金枝，张欢荣，韩瑜，基于像素分类的单目深度估计网络, CAC 中国自动化大会, 上海，2020.(8) Yang Gao, Shuming Jiao, Zhi Jin, Holographic Data Compression with JPEG Standard and Deep Learning, Digital Holography and Three-Dimensional Imaging, Bordeaux, France, 2019.(9) Shengkai Zhuo#, Zhi Jin#, Wenbin Zou, Xia Li, RIDNet: Recursive Information Distillation Network for Color Image Denoising, ICCV Workshop, Seoul, South Korea, 2019.(10) Zhi Jin, Haili Luo, Lei Luo, Wenbin Zou, Xia Li, Eckehard Steinbach, Information Fusion based Quality Enhancement for 3D Stereo Images Using CNN, EUSIPCO, Rome, Italy, Sep.2018.(11) Kai Cui, Zhi Jin, Eckehard Steinbach, Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure, IEEE International Conference on Image Processing, Athens, Greece, Oct. 2018. (CCF C类会议)(12) Yi Tang, Zhi Jin, Wenbin Zou, Xia Li, Multi-Scale Spatiotemporal Conv-LSTM Network for Video Saliency Detection, ACM International Conference on Multimedia Retrieval, Yokohama, Japan, Jun. 2018. (CCF B类会议)(13) Zhi Jin, Lei Luo, Yi Tang, Wenbin Zou, Xia Li, A CNN Cascade for Quality Enhancement of Compressed Depth images, IEEE International Conference on Visual Communication and Image Processing, USA St Petersburg, Dec. 2017. (CCF C类会议)(14) Yi Tang, Di Wu, Zhi Jin, Wenbin Zou, Xia Li, Multi-model Metric Learning for Vehicle Re-identification in Traffic Surveillance Environment, IEEE International Conference on Image Processing, P.R. China Beijing, Sep. 2017. (CCF C类会议)",
+            "主要专利1.金枝，肖洁，庞雨贤， 一种针对图像复原卷积神经网络的压缩方法及装置，国内发明专利，专利申请号：202011207721.12.金枝，张欢荣，齐银鹤，庞雨贤， 一种合成高仿真图像的方法，国内发明专利，专利申请号：202110401470.93.金枝, 齐银鹤, 谭晓军. 基于双流多路径递归残差网络的压缩伪影去除方法, PCT专利)，专利公开号：WO 2019/056306 A1 （已通过PCT检索）。4.金枝，韩瑜，庞雨贤， 一种基于视觉的结构体参数预测方法、系统、装置及存储介质，国内发明专利，专利申请号：202010563212.65.金枝，庞雨贤，韩瑜，丁北辰，一种基于 BMI 检测的智慧型穿衣镜，国内发明专利，专利申请号：202010966094.36.金枝，周长源，邹文斌，李霞，基于全卷积神经网络的压缩深度图质量增强方法及装置，国内发明专利，专利号：ZL 2017 1 0602293.4（已授权）7.金枝，罗海丽，周长源，邹文斌，李霞，一种鲁棒的基于深度信息的平面检测方法及系统， 国内发明专利，专利号：ZL 2017 1 0866367.5（已授权）",
+            "教材1 《视频图像技术原理与教程案例》，李熙莹、陈俊周、金枝、韩瑜、苟超，电子工业出版社，978-7-121-40041-4，2020.12.",
+            "六、荣誉获奖情况1.荣获第3届IEEE Global Conference on Consumer Electronics (GCCE)最佳成果演示奖和德国慕尼黑工业大学高级研究员科研资助（获批率仅3.06%）。2.荣获中山大学第九届教师教学大赛工科组特等奖（全校仅一名）。3.荣获广东省本科高校文化素质教育指导委员会2020年课程思政优秀案例二等奖。4.荣获深圳市首届思政课改革创新系列成果暨思政“金课”评选二等奖。",
+            "七、主要兼职国际知名期刊IEEE TCSV,TMM和 Information Fusion的审稿人,多个国际会议的审稿人。担任多媒体领域旗舰会议ICME2019的环节主席，ICIG2020委员会成员。广东省人工智能专家库专家，深圳市科创委专家库专家。",
+            "八、联系方式邮 箱：jinzh26@mail.sysu.edu.cn办公室：中山大学深圳校区工学园"
+        ],
+        "codeblock": [],
+        "url": "/leader"
+    },
+    "/contact": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Contact"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "邮箱：jinzh26@mail.sysu.edu.cn",
+            "办公室：中山大学深圳校区工学园",
+            "Last update on August 2024."
+        ],
+        "codeblock": [],
+        "url": "/contact"
+    },
+    "/publications_more/publications_more5": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Publications",
+            "Frontier Vision Lab"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [
+            "< back"
+        ],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "Image Dehazing",
+            "Yuwei Qiu, Kaihao Zhang, Chenxi Wang, Wenhan Luo, and Zhi Jin*MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image DehazingProceedings of the IEEE International Conference on Computer Vision (ICCV) 2023.[paper] [code]"
+        ],
+        "codeblock": [],
+        "url": "/publications_more/publications_more5"
+    },
+    "/publications_more/publications_more6": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Publications",
+            "Frontier Vision Lab"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [
+            "< back"
+        ],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "Others",
+            "Chenxi Wang, Jingzhou Luo, Xing Luo, Haoran Qi and Zhi Jin*V-DixMatch: A Semi-Supervised Learning Method for Human Action Recognition in Night Video SensingIEEE Sensors Journal 2023.[paper] [code]",
+            "Zhi Jin, Junjia Huang, Wenjin Wang, Aolin Xiong, Xiaojun Tan*Estimating Human Weight from A Single ImageIEEE Transactions on Multimedia (TMM), EARLY ACCESS, 2022.[paper] [code]",
+            "Zhi Jin, Junjia Huang, Aolin Xiong, Yuxian Pang, Wenjin Wang, Beichen Ding*Attention guided deep features for accurate body mass index estimationElsevier, Pattern Recognition Letters, 154, pp.22-28, 2022.[paper] [code]",
+            "Junjia Huang, Chenming Shang, Aolin Xiong, Yuxian Pang, Zhi Jin*SEEING HEALTH WITH EYES: FEATURE COMBINATION FOR IMAGE-BASED HUMAN BMI ESTIMATIONProceedings of the IEEE International Conference on Multimedia & Expo (ICME) 2021.[paper] [code]",
+            "Jie Xiao, Zhi Jin*, Huanrong ZhangA general model compression method for image restoration networkSignal Processing: Image Communication. 2021.[paper] [code]"
+        ],
+        "codeblock": [],
+        "url": "/publications_more/publications_more6"
+    },
+    "/publications_more/publications_more4": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Frontier Vision Lab",
+            "Publications"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [
+            "< back"
+        ],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "Image Inpainting",
+            "Dandan Zhan, Jiahao Wu, Xing Luo, Zhi Jin*Learning from Text: A Multimodal Face Inpainting Network for Irregular HolesIEEE Transactions on Circuits and Systems for Video Technology.[paper] [code]",
+            "Jie Xiao, Dandan Zhan, Haoran Qi, Zhi Jin*When Face Completion Meets Irregular Holes: an Attributes Guided Deep Inpainting NetworkProceedings of the 28th ACM International Conference on Multimedia (ACM MM). 2021.[paper] [code]"
+        ],
+        "codeblock": [],
+        "url": "/publications_more/publications_more4"
+    },
+    "/publications_more/publications_more3": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Frontier Vision Lab",
+            "Publications"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [
+            "< back"
+        ],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "Low Light Image Enhancement",
+            "Wei Wang, Zhi Jin*CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image EnhancementProceedings of the IEEE International Conference on Multimedia & Expo (ICME) 2024. Best paper candidate.[paper] [code]",
+            "Chenxi Wang, Hongjun Wu, and Zhi Jin*FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency InformationProceedings of the 31th ACM International Conference on Multimedia (ACM MM) 2023.[paper] [code]",
+            "Chenxi Wang, and Zhi Jin*Brighten-and-Colorize: A Decoupled Network for Customized Low-Light Image EnhancementProceedings of the 31th ACM International Conference on Multimedia (ACM MM) 2023.[paper] [code]",
+            "Hongjun Wu, Haoran Qi, Jingzhou Luo, Yining Li, and Zhi Jin*A Lightweight Image Entropy-Based Divide-and-Conquer Network for Low-Light Image EnhancementProceedings of the IEEE International Conference on Multimedia & Expo (ICME) 2022.[paper] [code]"
+        ],
+        "codeblock": [],
+        "url": "/publications_more/publications_more3"
+    },
+    "/publications_more/publications_more2": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Frontier Vision Lab",
+            "Publications"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [
+            "< back"
+        ],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "Image Super-resolution",
+            "Zongyao He, Zhi Jin*Latent Modulated Function for Computational Optimal Continuous Image Representation2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Hightlight Paper.[paper] [code]",
+            "Zongyao He, Zhi Jin*Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image RepresentationProceedings of the IEEE International Conference on Multimedia & Expo (ICME) 2024.[paper] [code]",
+            "Hongjun Wu, Haoran Qi, Huanrong Zhang, Zhi Jin*, Driton Salihu, and Jian-Fang HuReconstruction with robustness: A semantic prior guided face super-resolution framework for multiple degradationsImage and Vision Computing.[paper] [code]",
+            "Haoran Qi, Yuwei Qiu, Xing Luo, and Zhi Jin*An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-ResolutionIEEE Transactions on Multimedia 2023.[paper] [code]",
+            "Zongyao He, Zhi Jin*, Yao ZhaoSRDRL: A Blind Super-Resolution Framework With Degradation Reconstruction LossIEEE Transactions on Multimedia (TMM), Volume: 24, 2021.[paper] [code]",
+            "Huanrong Zhang, Jie Xiao, Zhi Jin*Multi-scale Image Super-Resolution via A Single Extendable Deep NetworkIEEE Journal of Selected Topics in Signal Processing (JSTSP). 2021.[paper] [code]",
+            "Huanrong Zhang, Zhi Jin*, Xiaojun Tan, Xiying LiTowards Lighter and Faster: Learning Wavelets Progressively for Image Super-ResolutionProceedings of the 28th ACM International Conference on Multimedia (ACM MM). 2020.[paper] [code]"
+        ],
+        "codeblock": [],
+        "url": "/publications_more/publications_more2"
+    },
+    "/publications_more": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Frontier Vision Lab",
+            "Publications"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "3D Reconstruction & Generation",
+            "Image Super-resolution",
+            "Low Light Image Enhancement",
+            "Image Inpainting",
+            "Image Dehazing",
+            "Others"
+        ],
+        "codeblock": [],
+        "url": "/publications_more"
+    },
+    "/news_more": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "News",
+            "Frontier Vision Lab"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "The 24th master students successfully passed the graduation thesis defense.",
+            "FVL members participated in VALSE 2024 and delivered a paper poster presentation, engaging in extensive discussions with numerous experts and scholars.",
+            "Students from the Technical University of Munich (TUM) came to Sun Yat-sen University to conduct academic exchanges with the FVL.",
+            "Lab leader Prof. Jin with two Ph.D. students went to visit Technical University of Munich for Sino-German Mobility Programme.",
+            "We participated in the 9th edition of CVPR2024 workshop NTIRE: New Trends in Image Restoration and Enhancement challenge and won first placeamong 427 participants.",
+            "Our paper \"Dynamic Implicit Image Function for Efficient Arbitrary-Scale Super-Resolution\" was accepted by ICME 2024.",
+            "Our paper \"CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement\" was accepted by ICME 2024.",
+            "Our paper \"Latent Modulated Function for Computational Optimal Continuous Image Representation\" was accepted by CVPR 2024.",
+            "Our paper \"Learning from Text: A Multimodal Face Inpainting Network for Irregular Holes\" was accepted by IEEE Transactions on Circuits and Systems for Video Technology.",
+            "Our paper \"Reconstruction with robustness: A semantic prior guided face super-resolution framework for multiple degradations\" was accepted by Image and Vision Computing.",
+            "December 15, 2023 Professor Weisi Lin, visited our lab and gave a talk.",
+            "October 20, 2023 Scholar Chao Dong, the first author of SRCNN, visited our lab and gave a talk.",
+            "September 2023, the Sino-German Mobility Project Joint Exchange Meeting was successfully held again.",
+            "Our paper \"MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing\" was accepted by ICCV 2023.",
+            "Our papers \"FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency Information\" and \"Brighten-and-Colorize: A Decoupled Network for Customized Low-Light Image Enhancement\" were accepted by ACM MM 2023.",
+            "We participated the 8th edition of CVPR2023 workshop NTIRE: New Trends in Image Restoration and Enhancement challenge and won 2nd place among final 93 participants.",
+            "March 2023, the Sino-German Mobility Project Joint Exchange Meeting was successfully held.",
+            "We participated the 5th edition of CVPR2022 UG2+ Challenge: BRIDGING THE GAP BETWEEN COMPUTATIONAL PHOTOGRAPHY AND VISUAL RECOGNITION and won 4th place among final 20 participants.",
+            "We participated the 6th edition of CVPR2021 workshop NTIRE: New Trends in Image Restoration and Enhancement challenge and won 11th place among 200+ participants."
+        ],
+        "codeblock": [],
+        "url": "/news_more"
+    },
+    "/publications_more/publications_more1": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Publications",
+            "Frontier Vision Lab"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [
+            "< back"
+        ],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "3D Reconstruction & Generation",
+            "Yikun Ma, Dandan Zhan, Zhi Jin*FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian SplattingProceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI) 2024. Oral Paper.[paper] [code]"
+        ],
+        "codeblock": [],
+        "url": "/publications_more/publications_more1"
+    },
+    "/publications": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "Publications",
+            "Frontier Vision Lab"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "Jiawei Wu, Zhi Jin*Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision TasksEuropean Conference on Computer Vision(ECCV) 2024.[paper] [code]",
+            "Yikun Ma, Dandan Zhan, Zhi Jin*FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian SplattingProceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI) 2024. Oral Paper.[paper] [code]",
+            "Zongyao He, Zhi Jin*Latent Modulated Function for Computational Optimal Continuous Image Representation2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Hightlight Paper.[paper] [code]",
+            "Zongyao He, Zhi Jin*Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image RepresentationProceedings of the IEEE International Conference on Multimedia & Expo (ICME) 2024.[paper] [code]",
+            "Wei Wang, Zhi Jin*CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image EnhancementProceedings of the IEEE International Conference on Multimedia & Expo (ICME) 2024. Best paper candidate.[paper] [code]",
+            "Dandan Zhan, Jiahao Wu, Xing Luo, Zhi Jin*Learning from Text: A Multimodal Face Inpainting Network for Irregular HolesIEEE Transactions on Circuits and Systems for Video Technology.[paper] [code]",
+            "Hongjun Wu, Haoran Qi, Huanrong Zhang, Zhi Jin*, Driton Salihu, and Jian-Fang HuReconstruction with robustness: A semantic prior guided face super-resolution framework for multiple degradationsImage and Vision Computing.[paper] [code]",
+            "Chenxi Wang, Hongjun Wu, and Zhi Jin*FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency InformationProceedings of the 31th ACM International Conference on Multimedia (ACM MM) 2023.[paper] [code]",
+            "more"
+        ],
+        "codeblock": [],
+        "url": "/publications"
+    },
+    "/news": {
+        "version": 1,
+        "title": "Frontier Vision Lab",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [
+            "News",
+            "Frontier Vision Lab"
+        ],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "The 24th master students successfully passed the graduation thesis defense.",
+            "FVL members participated in VALSE 2024 and delivered a paper poster presentation, engaging in extensive discussions with numerous experts and scholars.",
+            "Students from the Technical University of Munich (TUM) came to Sun Yat-sen University to conduct academic exchanges with the FVL.",
+            "Lab leader Prof. Jin with two Ph.D. students went to visit Technical University of Munich for Sino-German Mobility Programme.",
+            "We participated in the 9th edition of CVPR2024 workshop NTIRE: New Trends in Image Restoration and Enhancement challenge and won first placeamong 427 participants.",
+            "Our paper \"Dynamic Implicit Image Function for Efficient Arbitrary-Scale Super-Resolution\" was accepted by ICME 2024.",
+            "Our paper \"CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement\" was accepted by ICME 2024.",
+            "Our paper \"Latent Modulated Function for Computational Optimal Continuous Image Representation\" was accepted by CVPR 2024.",
+            "Our paper \"Learning from Text: A Multimodal Face Inpainting Network for Irregular Holes\" was accepted by IEEE Transactions on Circuits and Systems for Video Technology.",
+            "Our paper \"Reconstruction with robustness: A semantic prior guided face super-resolution framework for multiple degradations\" was accepted by Image and Vision Computing.",
+            "December 15, 2023 Professor Weisi Lin, visited our lab and gave a talk.",
+            "October 20, 2023 Scholar Chao Dong, the first author of SRCNN, visited our lab and gave a talk.",
+            "September 2023, the Sino-German Mobility Project Joint Exchange Meeting was successfully held again.",
+            "Our paper \"MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing\" was accepted by ICCV 2023.",
+            "Our papers \"FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency Information\" and \"Brighten-and-Colorize: A Decoupled Network for Customized Low-Light Image Enhancement\" were accepted by ACM MM 2023.",
+            "more"
+        ],
+        "codeblock": [],
+        "url": "/news"
+    },
+    "/": {
+        "version": 1,
+        "title": "FVL Home Page",
+        "description": "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. ",
+        "keywords": "",
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h6": [],
+        "p": [
+            "Leader",
+            "News",
+            "Publications",
+            "Contact",
+            "The Frontier Vision Lab (FVL) is leaded by Associate Professor Zhi Jin with the School of Intelligent Systems Engineering, Sun Yat-sen University. FVL currently performs research in the fields of Image/video Quality Enhancement, Object Detection, 3D Reconstruction, and Image-based Healthy Measurement.",
+            "The Frontier Vision Lab aims to treat the complete cycle from images to their interpretation, and to the resulting action. It is our objective to develop universal concepts and methods. In order to meet these challenges, we want to keep our finger at the pulse of international, ongoing research and we operate in the context of many collaborations with other labs and projects.",
+            "This said, it simultaneously is our strategy to let difficult, real-world applications drive our research and development. We see collaboration with industry as an important plus for an engineering lab like ours."
+        ],
+        "codeblock": [],
+        "url": "/"
+    }
+}
