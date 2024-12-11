@@ -1,4 +1,4 @@
-# December 4, 2024 Professor Jian Zhang, visited our lab and gave a talk
+# December 3, 2024 Professor Jian Zhang, visited our lab and gave a talk
 On December 3, 2024, at the invitation of Associate Professor Zhi Jin, Professor Jian Zhang from Peking University Shenzhen Graduate School (PKU Shenzhen) visited FVL and gave an academic lecture titled "Controlled Visual Generation and Tamper Localization".
 
 Prof. Zhang focuses on intelligent and controllable image generation, including efficient image reconstruction, controlled image generation, and precise image editing. He has authored over 100 papers in international journals and conferences, accumulating more than 9,800 citations on Google Scholar and achieving an h-index of 49. For five consecutive years, he has been ranked among the top 2% of scientists globally, with his research findings widely applied in products by renowned companies.
