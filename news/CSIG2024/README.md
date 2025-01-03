@@ -2,7 +2,7 @@
 From December 13 to 15, 2024, the 20th Young Scientists Conference of CSIG was successfully held in Hangzhou. 
 
 ![photo](https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/CSIG2024/CSIGhezhao.png)
-<p align="center">Fig.21 Photo of FVL leader and members</p>
+<p align="center">Fig.1 Photo of FVL leader and members</p>
 
 The conference was oriented to the international academic frontiers and national strategic needs, focusing on the latest cutting-edge technologies and hot topics, and presented 4 keynote speeches, 26 thematic parallel forums, 4 workshops, and a total of more than 160 high-level academic reports. This wonderful academic feast attracted more than 2,160 experts, scholars, and students in this field from academia and industry.
 
