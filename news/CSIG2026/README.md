@@ -1,0 +1,26 @@
+# Research Group Attends the 2026 CSIG Young Scientists Conference.
+
+From August 3 to 6, 2026, the 22nd Young Scientists Conference of the China Society of Image and Graphics (CSIG) was held in Kunming, Yunnan Province. The conference brought together experts, scholars, and young researchers from universities, research institutes, and industry across China to exchange ideas on cutting-edge topics in image graphics and artificial intelligence. A wide range of academic activities were organized, including plenary talks, thematic forums, young scientist forums, and doctoral student forums. The topics covered image restoration and enhancement, visual foundation models, multimodal learning, 3D vision, spatial intelligence, world models, and embodied intelligence. Prof. Zhi Jin, together with PhD students Jiawei Wu and Xiangyu Guo from our research group, attended the conference.
+
+<p align="center">
+  <img src="https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/CSIG2026/1.png" alt="Fig.1 Group members at CSIG 2026"/>
+</p>
+<p align="center">Fig.1 Group members at CSIG 2026</p>
+
+During the conference, members of our research group actively participated in plenary talks, thematic forums, and academic activities for young researchers, and exchanged ideas with experts and scholars from different universities and research institutions. Through these activities, they gained a deeper understanding of the latest research trends in image graphics. In addition to traditional topics such as image restoration and image fusion, world models, spatial intelligence, embodied intelligence, and 3D vision also received considerable attention. These emerging topics reflect a broader shift in visual research from individual perception, reconstruction, and generation tasks toward spatial understanding, environment modeling, and interaction with the real world.
+Prof. Zhi Jin was invited to give an academic talk on image restoration at a thematic forum, where she introduced the research group’s recent progress in image restoration and intelligent visual perception under complex scenarios. The talk discussed image quality enhancement under complex degradation conditions and its influence on downstream visual perception tasks, followed by in-depth exchanges with experts and scholars at the forum. Image restoration and image fusion were also among the active research topics at this year’s conference, with a large number of recent studies presented in thematic sessions and poster exhibitions, highlighting the continuing importance of low-level vision for complex visual perception and high-level vision applications.
+
+<p align="center">
+  <img src="https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/CSIG2026/2.png" alt="Fig.2 Prof. Zhi Jin giving a talk"/>
+</p>
+<p align="center">Fig.2 Prof. Zhi Jin giving a talk</p>
+
+Meanwhile, world models, spatial intelligence, and embodied intelligence were also frequently discussed throughout the conference. Many presentations went beyond conventional visual perception and 3D reconstruction, focusing instead on how models can understand spatial relationships, environmental changes, and interactions between objects, and how such capabilities can further support reasoning, decision-making, and action for intelligent agents. By attending these presentations, members of our group gained a more intuitive understanding of the ongoing transition in visual research from “perceiving and reconstructing the world” toward “understanding and interacting with the world,” which also provided new inspiration for future research.
+
+<p align="center">
+  <img src="https://github.com/FVL2020/fvl.github.com/blob/master/news_photos/CSIG2026/3.png" alt="Fig.3 NSFC Doctoral Student Forum "/>
+</p>
+<p align="center">Fig.3 NSFC Doctoral Student Forum </p>
+
+Members of our research group also attended the NSFC Doctoral Student Forum and other academic activities for young researchers. The forum provided doctoral students with a platform to present their research achievements and exchange research ideas. PhD students from different universities and research areas shared and discussed their work, offering our students an opportunity to learn about different research approaches and ways of organizing a coherent research agenda. The forum also provided useful insights into how to identify scientific problems, develop a continuous line of research, and improve academic presentation skills.
+The conference provided an excellent opportunity for members of our research group to learn from and communicate with researchers in the field. Through plenary talks, thematic discussions, doctoral student forums, and poster sessions, they further broadened their academic horizons and deepened their understanding of emerging topics including image restoration, 3D vision, world models, and spatial intelligence. In the future, our group will continue to follow important research frontiers in image graphics and artificial intelligence, strengthen academic exchanges with researchers in China and abroad, and further explore advanced techniques in visual information processing and intelligent perception.
